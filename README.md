@@ -45,6 +45,9 @@ docs/
 - Capstone_Project_M05L01_Risk_Register_SWOT.pdf
 - Capstone_Project_M05L02_Risk_Matrix_Mitigation
 
+Jupyter Notebook/
+- Healthfirst_care_Analysis.ipynb
+
 data/
 - appointment_data.csv
 - feedback_data.csv
