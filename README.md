@@ -34,31 +34,31 @@ HealthFirst Care faced significant operational challenges, including long patien
 healthfirst-care-initiative/
 
 docs/
-HealthFirst_Care_Dashboard.pdf
-BA_Capstone_Project.pdf
-BA_Capstone_Project.pptx
-Capstone_Project_M01L01_BRD.pdf
-Capstone_Project_M01L02_RTM.pdf
-Capstone_Project_M02L01_Stakeholder_Analysis.pdf
-Capstone_Project_M02L02_Scope_Management.pdf
-Capstone_Project_M03L01_Process_Model.pdf
-Capstone_Project_M05L01_Risk_Register_SWOT.pdf
-Capstone_Project_M05L02_Risk_Matrix_Mitigation
+- HealthFirst_Care_Dashboard.pdf
+- BA_Capstone_Project.pdf
+- BA_Capstone_Project.pptx
+- Capstone_Project_M01L01_BRD.pdf
+- Capstone_Project_M01L02_RTM.pdf
+- Capstone_Project_M02L01_Stakeholder_Analysis.pdf
+- Capstone_Project_M02L02_Scope_Management.pdf
+- Capstone_Project_M03L01_Process_Model.pdf
+- Capstone_Project_M05L01_Risk_Register_SWOT.pdf
+- Capstone_Project_M05L02_Risk_Matrix_Mitigation
 
 data/
-appointment_data.csv
-feedback_data.csv
-resource_data.csv
+- appointment_data.csv
+- feedback_data.csv
+- resource_data.csv
 
-process_models/
-As-Is_Process_Workflows.pdf
-To-Be_Process_Workflows.pdf
-Patient_Appointment_Scheduling_Swimlane.pdf
-Patient_Check-in_Swimlane.pdf
-Dishcharge_Planning_Process.pdf
+- process_models/
+- As-Is_Process_Workflows.pdf
+- To-Be_Process_Workflows.pdf
+- Patient_Appointment_Scheduling_Swimlane.pdf
+- Patient_Check-in_Swimlane.pdf
+- Dishcharge_Planning_Process.pdf
 
 README.md
-LICENSE (Not Included)
+- LICENSE (Not Included)
 
 ---
 
