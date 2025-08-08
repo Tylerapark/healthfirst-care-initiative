@@ -50,7 +50,7 @@ data/
 - feedback_data.csv
 - resource_data.csv
 
-- process_models/
+process_models/
 - As-Is_Process_Workflows.pdf
 - To-Be_Process_Workflows.pdf
 - Patient_Appointment_Scheduling_Swimlane.pdf
