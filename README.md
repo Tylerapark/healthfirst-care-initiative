@@ -1,4 +1,4 @@
-# HealthFirst Care Initiative — Portfolio Project
+# HealthFirst Care Initiative - Portfolio Project
 
 A comprehensive business analysis and digital transformation project aimed at improving patient scheduling, resource management, and communication at a healthcare organization. This project demonstrates my skills in business requirements gathering, stakeholder management, process modeling, and data-driven decision-making using SQL, Python, and Google Looker Studio.
 
@@ -57,7 +57,7 @@ data/
 - Patient_Check-in_Swimlane.pdf
 - Dishcharge_Planning_Process.pdf
 
-README.md
+README.md/
 - LICENSE (Not Included)
 
 ---
