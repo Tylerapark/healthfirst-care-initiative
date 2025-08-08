@@ -1,0 +1,195 @@
+ResourceID,Department,ResourceType,UsageHours,Date,Availability
+R5487,Cardiology,Nurse,2,"Sunday, July 28, 2024",Unavailable
+R8097,Orthopedics,Doctor,9,"Tuesday, September 10, 2024",Unavailable
+R2557,General Medicine,Room,5,"Tuesday, December 17, 2024",Under Maintenance
+R9024,Neurology,Doctor,9,"Tuesday, July 9, 2024",Unavailable
+R2629,Oncology,Doctor,4,"Wednesday, March 6, 2024",Unavailable
+R1317,Cardiology,Nurse,0,"Monday, April 1, 2024",Available
+R9640,Neurology,Room,1,"Wednesday, October 16, 2024",Available
+R1787,Oncology,Doctor,8,"Monday, September 23, 2024",Available
+R9426,Cardiology,Technician,5,"Saturday, April 13, 2024",Unavailable
+R1606,General Medicine,Nurse,8,"Monday, June 17, 2024",Available
+R3242,Pediatric,Doctor,0,"Thursday, August 15, 2024",Available
+R6893,Neurology,Doctor,3,"Saturday, May 4, 2024",Available
+R3237,Orthopedics,Nurse,4,"Thursday, February 22, 2024",Available
+R5274,General Medicine,Doctor,7,"Saturday, January 20, 2024",Unavailable
+R1039,Neurology,Technician,5,"Thursday, October 24, 2024",Available
+R5597,Neurology,Nurse,4,"Tuesday, November 19, 2024",Unavailable
+R2939,Pediatric,Room,0,"Saturday, August 17, 2024",Available
+R8840,Neurology,Doctor,8,"Wednesday, July 3, 2024",Unavailable
+R5074,Oncology,Room,4,"Thursday, December 26, 2024",In Use
+R8405,Neurology,Technician,5,"Monday, December 9, 2024",Available
+R5984,Orthopedics,Equipment,3,"Wednesday, December 18, 2024",In Use
+R6968,General Medicine,Doctor,1,"Sunday, December 15, 2024",Unavailable
+R7116,Cardiology,Technician,8,"Wednesday, April 10, 2024",Available
+R4399,General Medicine,Room,7,"Monday, September 23, 2024",Under Maintenance
+R6261,Neurology,Equipment,5,"Saturday, July 13, 2024",Under Maintenance
+R9923,Cardiology,Technician,8,"Wednesday, January 31, 2024",Available
+R6097,Neurology,Nurse,9,"Friday, August 16, 2024",Available
+R1624,Oncology,Room,2,"Tuesday, November 26, 2024",In Use
+R6385,Oncology,Doctor,0,"Monday, December 16, 2024",Unavailable
+R2625,Neurology,Equipment,5,"Tuesday, April 2, 2024",Under Maintenance
+R3097,Orthopedics,Room,6,"Monday, June 3, 2024",Under Maintenance
+R5532,Pediatric,Room,7,"Monday, April 1, 2024",In Use
+R8648,Orthopedics,Technician,0,"Friday, December 20, 2024",Unavailable
+R6744,General Medicine,Equipment,9,"Saturday, December 21, 2024",Under Maintenance
+R6436,General Medicine,Technician,4,"Saturday, May 4, 2024",Available
+R4593,Orthopedics,Doctor,8,"Friday, April 5, 2024",Available
+R7325,Pediatric,Room,0,"Thursday, March 21, 2024",In Use
+R7808,Neurology,Nurse,2,"Saturday, November 9, 2024",Available
+R5805,General Medicine,Equipment,4,"Wednesday, March 27, 2024",In Use
+R3667,Oncology,Doctor,2,"Friday, August 2, 2024",Available
+R2833,General Medicine,Equipment,3,"Saturday, August 3, 2024",In Use
+R5799,General Medicine,Nurse,9,"Monday, January 22, 2024",Unavailable
+R2825,Pediatric,Technician,8,"Sunday, February 25, 2024",Available
+R5252,Pediatric,Nurse,7,"Sunday, June 23, 2024",Unavailable
+R7354,Pediatric,Doctor,0,"Wednesday, February 28, 2024",Available
+R2717,Cardiology,Technician,3,"Friday, October 25, 2024",Available
+R3782,Pediatric,Doctor,7,"Friday, February 2, 2024",Unavailable
+R1276,Oncology,Technician,9,"Wednesday, December 4, 2024",Unavailable
+R2832,Pediatric,Technician,9,"Tuesday, July 9, 2024",Available
+R7226,Neurology,Technician,3,"Tuesday, March 19, 2024",Unavailable
+R3607,Neurology,Equipment,9,"Monday, March 11, 2024",Available
+R9177,General Medicine,Technician,0,"Saturday, December 7, 2024",Available
+R1427,General Medicine,Nurse,7,"Saturday, September 21, 2024",Available
+R1381,Pediatric,Equipment,4,"Monday, September 16, 2024",Available
+R6613,Neurology,Nurse,2,"Sunday, October 20, 2024",Unavailable
+R7395,Oncology,Technician,1,"Tuesday, August 13, 2024",Unavailable
+R8110,General Medicine,Equipment,1,"Wednesday, November 27, 2024",In Use
+R5282,Cardiology,Room,5,"Sunday, January 7, 2024",Available
+R6766,Cardiology,Room,0,"Wednesday, February 28, 2024",Available
+R5926,Cardiology,Room,0,"Tuesday, September 10, 2024",Under Maintenance
+R5415,Cardiology,Equipment,4,"Sunday, December 22, 2024",Under Maintenance
+R3528,Neurology,Nurse,2,"Tuesday, January 16, 2024",Available
+R9442,Orthopedics,Room,0,"Thursday, December 19, 2024",Available
+R9566,General Medicine,Technician,9,"Thursday, November 21, 2024",Unavailable
+R8012,Neurology,Equipment,8,"Friday, April 5, 2024",In Use
+R4883,Cardiology,Technician,5,"Friday, July 12, 2024",Available
+R2401,Oncology,Equipment,5,"Sunday, April 28, 2024",Under Maintenance
+R7211,Cardiology,Nurse,7,"Friday, June 14, 2024",Unavailable
+R9738,Oncology,Technician,8,"Thursday, April 25, 2024",Unavailable
+R1429,Neurology,Room,3,"Saturday, May 4, 2024",In Use
+R7486,Cardiology,Doctor,0,"Saturday, July 20, 2024",Unavailable
+R2221,Pediatric,Equipment,8,"Wednesday, April 10, 2024",Under Maintenance
+R7880,Cardiology,Technician,7,"Wednesday, December 25, 2024",Available
+R9173,Orthopedics,Doctor,6,"Friday, June 21, 2024",Available
+R8674,Orthopedics,Room,2,"Wednesday, July 31, 2024",Available
+R3194,Neurology,Equipment,2,"Tuesday, October 29, 2024",In Use
+R8628,Cardiology,Equipment,6,"Monday, November 18, 2024",Available
+R8103,Pediatric,Room,7,"Friday, September 6, 2024",In Use
+R4911,Oncology,Equipment,0,"Tuesday, May 28, 2024",Under Maintenance
+R8724,Orthopedics,Nurse,7,"Tuesday, January 16, 2024",Unavailable
+R3152,General Medicine,Doctor,1,"Thursday, February 29, 2024",Unavailable
+R8641,Cardiology,Room,9,"Monday, August 19, 2024",In Use
+R4369,General Medicine,Doctor,5,"Friday, August 30, 2024",Available
+R2354,Orthopedics,Doctor,7,"Thursday, April 4, 2024",Available
+R9147,General Medicine,Room,2,"Thursday, April 4, 2024",In Use
+R8105,Oncology,Equipment,2,"Tuesday, June 25, 2024",Under Maintenance
+R9167,Orthopedics,Technician,2,"Monday, April 8, 2024",Available
+R3746,General Medicine,Nurse,9,"Saturday, December 28, 2024",Unavailable
+R9081,General Medicine,Technician,4,"Tuesday, June 11, 2024",Unavailable
+R1794,Oncology,Room,6,"Thursday, June 6, 2024",Available
+R7782,Oncology,Doctor,1,"Monday, November 4, 2024",Unavailable
+R7818,Oncology,Room,2,"Tuesday, March 19, 2024",Under Maintenance
+R6399,Cardiology,Technician,7,"Sunday, April 7, 2024",Available
+R4520,Oncology,Technician,1,"Sunday, May 26, 2024",Unavailable
+R7243,Neurology,Technician,4,"Friday, June 14, 2024",Unavailable
+R5582,Neurology,Doctor,7,"Thursday, May 16, 2024",Available
+R4033,Orthopedics,Technician,9,"Saturday, March 16, 2024",Unavailable
+R2577,Orthopedics,Room,6,"Sunday, August 25, 2024",In Use
+R4743,General Medicine,Room,9,"Monday, January 15, 2024",Under Maintenance
+R3325,Orthopedics,Equipment,3,"Friday, November 22, 2024",Under Maintenance
+R1133,Pediatric,Technician,8,"Friday, April 5, 2024",Available
+R2734,Pediatric,Doctor,2,"Friday, December 20, 2024",Available
+R4411,Neurology,Technician,5,"Tuesday, November 12, 2024",Unavailable
+R4657,Pediatric,Doctor,3,"Saturday, March 16, 2024",Available
+R5595,General Medicine,Equipment,7,"Monday, April 22, 2024",Under Maintenance
+R3368,Pediatric,Room,6,"Sunday, July 7, 2024",In Use
+R3590,Pediatric,Technician,6,"Saturday, June 1, 2024",Available
+R1636,Orthopedics,Room,5,"Saturday, June 29, 2024",Under Maintenance
+R1419,Neurology,Technician,4,"Friday, January 12, 2024",Available
+R7729,General Medicine,Nurse,2,"Tuesday, September 3, 2024",Unavailable
+R7577,General Medicine,Technician,1,"Saturday, July 13, 2024",Available
+R3762,Pediatric,Technician,5,"Thursday, July 18, 2024",Available
+R6690,Pediatric,Equipment,5,"Wednesday, July 31, 2024",In Use
+R3388,General Medicine,Nurse,4,"Friday, March 8, 2024",Available
+R4334,General Medicine,Room,6,"Thursday, June 6, 2024",In Use
+R7162,Neurology,Room,2,"Thursday, March 28, 2024",Available
+R4580,Oncology,Nurse,7,"Tuesday, July 9, 2024",Unavailable
+R3442,Oncology,Technician,3,"Tuesday, September 10, 2024",Unavailable
+R1998,Cardiology,Technician,9,"Sunday, August 11, 2024",Unavailable
+R3393,Oncology,Doctor,1,"Saturday, May 11, 2024",Unavailable
+R2004,Neurology,Equipment,4,"Thursday, October 17, 2024",In Use
+R3795,Pediatric,Doctor,6,"Friday, February 2, 2024",Available
+R5550,Cardiology,Equipment,3,"Sunday, December 1, 2024",Available
+R1369,Orthopedics,Nurse,4,"Thursday, October 3, 2024",Available
+R9210,Neurology,Doctor,1,"Saturday, August 31, 2024",Available
+R7907,Orthopedics,Equipment,2,"Monday, September 2, 2024",In Use
+R5061,General Medicine,Doctor,4,"Friday, July 19, 2024",Unavailable
+R3257,Neurology,Technician,6,"Monday, September 23, 2024",Available
+R6179,General Medicine,Technician,4,"Monday, July 29, 2024",Available
+R2158,Oncology,Nurse,3,"Saturday, March 16, 2024",Available
+R4245,Cardiology,Room,8,"Sunday, December 8, 2024",In Use
+R3900,General Medicine,Technician,8,"Saturday, June 22, 2024",Available
+R8250,Neurology,Technician,0,"Friday, May 31, 2024",Unavailable
+R7871,Oncology,Doctor,7,"Friday, May 31, 2024",Unavailable
+R8375,Neurology,Room,0,"Saturday, January 27, 2024",Available
+R6418,Orthopedics,Room,0,"Monday, May 27, 2024",Under Maintenance
+R6093,General Medicine,Nurse,2,"Sunday, January 14, 2024",Available
+R3410,Pediatric,Doctor,8,"Wednesday, October 9, 2024",Available
+R2697,Oncology,Nurse,3,"Wednesday, April 24, 2024",Unavailable
+R5378,Cardiology,Equipment,0,"Thursday, August 15, 2024",Available
+R3296,Oncology,Technician,5,"Friday, March 22, 2024",Available
+R1892,Oncology,Room,3,"Sunday, November 17, 2024",Available
+R8443,Orthopedics,Equipment,2,"Tuesday, February 13, 2024",Available
+R6719,Oncology,Room,7,"Wednesday, June 5, 2024",Available
+R1525,Pediatric,Room,4,"Wednesday, November 20, 2024",In Use
+R2602,Pediatric,Technician,5,"Tuesday, October 29, 2024",Available
+R2439,General Medicine,Room,0,"Saturday, November 23, 2024",Under Maintenance
+R4120,Neurology,Doctor,3,"Monday, February 26, 2024",Available
+R6450,Neurology,Equipment,4,"Wednesday, July 31, 2024",Under Maintenance
+R3212,Pediatric,Doctor,4,"Monday, September 23, 2024",Unavailable
+R3470,Pediatric,Nurse,5,"Saturday, February 3, 2024",Unavailable
+R4198,Orthopedics,Equipment,5,"Friday, April 5, 2024",Under Maintenance
+R6653,General Medicine,Technician,0,"Monday, February 19, 2024",Available
+R9325,General Medicine,Technician,0,"Monday, September 30, 2024",Available
+R5653,Pediatric,Doctor,6,"Monday, July 8, 2024",Available
+R9221,Oncology,Technician,1,"Saturday, November 23, 2024",Available
+R4576,General Medicine,Equipment,9,"Wednesday, January 10, 2024",Available
+R5250,Oncology,Equipment,1,"Monday, July 1, 2024",In Use
+R9942,Oncology,Room,2,"Thursday, February 15, 2024",Under Maintenance
+R9637,Oncology,Technician,9,"Tuesday, April 23, 2024",Unavailable
+R6571,Neurology,Nurse,2,"Wednesday, May 22, 2024",Available
+R8275,General Medicine,Nurse,5,"Monday, July 1, 2024",Unavailable
+R3024,General Medicine,Nurse,5,"Sunday, July 28, 2024",Available
+R9407,Orthopedics,Nurse,4,"Sunday, November 17, 2024",Available
+R4375,Pediatric,Technician,4,"Sunday, March 17, 2024",Available
+R4311,Pediatric,Nurse,1,"Sunday, March 3, 2024",Available
+R6892,Pediatric,Doctor,6,"Thursday, May 9, 2024",Unavailable
+R5035,General Medicine,Equipment,0,"Saturday, May 25, 2024",Under Maintenance
+R8869,Oncology,Nurse,6,"Saturday, November 2, 2024",Available
+R1032,General Medicine,Nurse,9,"Monday, June 3, 2024",Unavailable
+R7483,Pediatric,Doctor,0,"Wednesday, February 21, 2024",Unavailable
+R7873,Pediatric,Nurse,5,"Wednesday, October 30, 2024",Unavailable
+R5286,Orthopedics,Doctor,9,"Thursday, March 7, 2024",Unavailable
+R6508,Orthopedics,Doctor,8,"Tuesday, February 27, 2024",Available
+R7949,Neurology,Nurse,2,"Saturday, August 3, 2024",Unavailable
+R9477,Oncology,Equipment,6,"Wednesday, July 10, 2024",Under Maintenance
+R4395,Oncology,Doctor,4,"Saturday, June 29, 2024",Unavailable
+R3146,Orthopedics,Doctor,8,"Saturday, April 6, 2024",Unavailable
+R2220,Pediatric,Technician,6,"Monday, April 8, 2024",Available
+R7334,Oncology,Room,3,"Wednesday, January 3, 2024",In Use
+R1597,Neurology,Equipment,9,"Tuesday, October 8, 2024",Available
+R3553,Pediatric,Room,9,"Sunday, July 7, 2024",Available
+R3833,Pediatric,Technician,3,"Sunday, September 8, 2024",Unavailable
+R7417,Orthopedics,Technician,1,"Sunday, January 28, 2024",Unavailable
+R3526,General Medicine,Nurse,5,"Wednesday, May 15, 2024",Available
+R5504,Pediatric,Nurse,5,"Wednesday, June 12, 2024",Unavailable
+R8032,Pediatric,Technician,6,"Wednesday, March 13, 2024",Available
+R2554,Pediatric,Nurse,2,"Thursday, May 23, 2024",Unavailable
+R9553,Oncology,Doctor,2,"Friday, January 26, 2024",Unavailable
+R1385,Pediatric,Doctor,1,"Tuesday, March 26, 2024",Unavailable
+R8161,General Medicine,Equipment,1,"Thursday, December 19, 2024",Available
+R5806,Pediatric,Doctor,8,"Sunday, March 17, 2024",Unavailable
+R1560,Pediatric,Technician,6,"Monday, May 20, 2024",Unavailable
+R3933,Neurology,Doctor,8,"Thursday, October 3, 2024",Available
